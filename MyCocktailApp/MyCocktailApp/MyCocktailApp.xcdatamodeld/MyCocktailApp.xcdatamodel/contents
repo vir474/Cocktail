@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14D136" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Cocktail" representedClassName="Cocktail" syncable="YES">
+        <attribute name="alcLevel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="calKcal" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="components" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="difficulty" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="glassName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="glassPhotoUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ingredeints" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="instructions" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="photoUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="prepTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="volCl" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Cocktail" positionX="-63" positionY="-18" width="128" height="225"/>
+    </elements>
+</model>
